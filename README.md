@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://movementsalarie.com/imgs/logo.png" width="400" alt="tabadol center Logo"></a></p>
 
 <p align="center">
-version 0.2 25-07-2024
+version 0.2 21.01.25
 </p>
 
 ## About tabadol center
