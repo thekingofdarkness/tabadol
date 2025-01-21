@@ -1,0 +1,2 @@
+[20-Jun-2024 22:44:33 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home/edrowyew/movementsalarie.com/vendor/composer/platform_check.php on line 24
+[29-Aug-2024 17:31:23 Africa/Casablanca] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 803213312 bytes) in /home/edrowyew/movementsalarie.com/app/Http/Controllers/Admin/AdminController.php on line 487
