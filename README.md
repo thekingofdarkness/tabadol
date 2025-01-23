@@ -38,5 +38,5 @@ If you discover a security vulnerability within our application, please send an 
 ## License
 
 This software is proprietary and owned by ABDERRAHMAN BOUICHOU
-Use of this software is restricted to movementsalarie.com, or individuals/entities with explicit written approval from [Abderrahman bouichou].  
+Use of this software is restricted, or individuals/entities with explicit written approval from [Abderrahman bouichou].  
 Redistribution, sublicensing, or modification of this software is strictly prohibited without prior authorization.  
